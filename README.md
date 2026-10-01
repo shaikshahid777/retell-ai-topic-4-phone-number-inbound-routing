@@ -4,7 +4,7 @@
 
 <p align="center"><b>AI Receptionist • Webhooks • Test Audio • Call Logs</b></p>
 
-<p align="center"><a href="https://www.loom.com/share/47d3c033fcdd469f906556ded41de79a">🎥 Loom Demo</a> • <a href="./Retell_AI_Topic_4_LMS_Assessment_Documentation.pdf">📄 LMS PDF</a> • <a href="./screenshots/">🖼️ Evidence</a></p>
+<p align="center"><a href="https://www.loom.com/share/47d3c033fcdd469f906556ded41de79a">🎥 Loom Demo</a> • <a href="./Retell_AI_Topic_4_LMS_Assessment_Documentation.pdf">📄 LMS PDF</a> • <a href="./">🖼️ Evidence</a></p>
 
 ---
 
