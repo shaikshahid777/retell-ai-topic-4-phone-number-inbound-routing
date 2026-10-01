@@ -1,5 +1,7 @@
 # ☎️ Retell AI — Topic 4: Phone Number Provisioning & Inbound Routing
 
+<p align="center"><img src="./assets/retell-topic4-banner.svg" alt="Retell AI Topic 4 banner" width="100%"></p>
+
 <p align="center"><b>AI Receptionist • Webhooks • Test Audio • Call Logs</b></p>
 
 <p align="center"><a href="https://www.loom.com/share/47d3c033fcdd469f906556ded41de79a">🎥 Loom Demo</a> • <a href="./Retell_AI_Topic_4_LMS_Assessment_Documentation.pdf">📄 LMS PDF</a> • <a href="./screenshots/">🖼️ Evidence</a></p>
