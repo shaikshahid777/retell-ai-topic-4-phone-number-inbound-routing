@@ -1,22 +1,29 @@
-# 📸 Topic 4 Evidence
+# 📸 Topic 4 Evidence Guide
 
-The repository currently contains these uploaded screenshot files at the project root:
+The repository now contains the key Retell evidence screenshots at the project root.
 
-| File | Purpose |
+| Evidence | Screenshot |
 |---|---|
-| Screenshot 2026-09-30 174040.png | Retell Home / Getting Started |
-| Screenshot 2026-09-30 174608.png | Phone Numbers menu / provisioning options |
-| Screenshot 2026-10-01 114434.png | Trainee_Sarah_Receptionist + Test Audio |
-| Screenshot 2026-10-01 122749.png | Call History / transcript |
-| Screenshot 2026-10-01 122820.png | Agent settings / webhook area |
-| Screenshot 2026-10-01 122857.png | Webhook settings |
+| Identity verification blocker | `Screenshot 2026-09-30 173638.png` |
+| Phone Numbers page | `Screenshot 2026-09-30 174608.png` |
+| Getting Started | `Screenshot 2026-09-30 174040.png` |
+| Agent + Test Audio | `Screenshot 2026-10-01 114434.png` |
+| Call History + Transcript | `Screenshot 2026-10-01 122749.png` |
+| Agent configuration / webhook area | `Screenshot 2026-10-01 122820.png` |
+| Webhook settings | `Screenshot 2026-10-01 122857.png` |
 
-## ⚠️ Still needed
+## Evidence rules
 
-Upload the screenshot showing Identity Verification Required after selecting Buy New Number. This is the clearest evidence for the current phone-number provisioning blocker.
+- Do not label a `web_call` as a real inbound PSTN call.
+- Do not claim webhook delivery unless the actual event payload is visible.
+- The Identity Verification screenshot documents the current phone-number provisioning blocker.
+- The SIP-trunk screen is supplementary only; it requires external SIP credentials.
 
-Also keep the SIP-trunk screen only as supplementary evidence; it requires external SIP credentials and is not needed for the current submission.
+## Submission order
 
-## Evidence rule
-
-Never label a web_call as a real inbound PSTN call. Never claim webhook delivery unless the actual event payload is visible.
+1. Agent configuration
+2. Prompt
+3. Test Audio
+4. Webhook configuration / actual payload
+5. Call History + transcript
+6. Identity Verification blocker
